@@ -32,5 +32,5 @@ python3 middle-man.py
 
 note- 1. you can discover ip's of target as well as mac from my pre built tool: https://github.com/mpandey67/device-detective
 
-      2. For anonymity or to change the mac you can use my mac changer tool :	https://github.com/mpandey67/change-mac 
+   2. For anonymity or to change the mac you can use my mac changer tool :	https://github.com/mpandey67/change-mac 
 
