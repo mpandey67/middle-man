@@ -10,6 +10,9 @@ RUN-->
 pip3 install --pre scapy[complete]
 
 TO RUN THE PROGRAM:
+git clone https://github.com/mpandey67/middle-man
+cd middle-man
+python3 middle-man.py
 
 
 USAGE:
